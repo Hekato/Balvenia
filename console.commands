@@ -1,3 +1,5 @@
 Game.spawns.Spawn1.createCreep( [WORK, CARRY, MOVE, MOVE])
 
 Game.spawns.Spawn1.createCreep( [RANGED_ATTACK, MOVE, MOVE, MOVE])
+
+Game.creeps['Attackah'].say('BANZAI!')
